@@ -1,10 +1,11 @@
-### Hi, I'm Jet 👋✈️
+### 👋 Hi, I'm Jet (he/him) ✈️
+I'm a Computer Engineering student at the University of Maryland who loves robotics and cybersecurity
 
-I'm a computer engineering student at the University of Maryland who loves robotics 🤖
+### 👨‍💻 Check out some of my projects:
+- 🤖 [`RockvilleRobotics/Incredibots2018`](https://github.com/rockvillerobotics/Incredibots2018) Fully autonomous robot I deployed to international competetion of 60+ teams, placing top 10 in the world
 
-👨‍💻 Check out some of my projects:0
-
-🤿 For fun...
+### 🤿 For fun...
+- 🎵 Listen to my latest [seasonal playlist](https://open.spotify.com/playlist/74LBOIVwvByeqKQucz5m4Y?si=7e30100ec1c9442d)
 
 <!--
 **dotcomstar/dotcomstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
