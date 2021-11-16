@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Jet 👋✈️
+
+I'm a computer engineering student at the University of Maryland who loves robotics 🤖
+
+👨‍💻 Check out some of my projects:0
+
+🤿 For fun...
 
 <!--
 **dotcomstar/dotcomstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
