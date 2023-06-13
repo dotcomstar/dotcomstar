@@ -2,6 +2,7 @@
 I'm a new grad software developer with a B.S. in Computer Engineering from the University of Maryland, College Park.
 
 ### 👨‍💻 Check out some of my projects:
+- 📆🎓 [`ScheduleTerps`](https://github.com/dotcomstar/ScheduleTerps) Select the best courses for your schedule at UMD https://schedule-terps-dotcomstar.vercel.app/
 - 🎮 [`GameHub`](https://github.com/dotcomstar/game-hub) Game-browsing website deployed to https://game-hub-dotcomstar.vercel.app/
 - 🤖 [`RockvilleRobotics/Incredibots2018`](https://github.com/rockvillerobotics/Incredibots2018) Fully autonomous robot I deployed to international competetion of 60+ teams, placing top 10 in the world
 
