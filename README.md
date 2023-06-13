@@ -8,7 +8,7 @@
 
 ### 🤿 For fun...
 - 🎵 Listen to my latest [seasonal playlist](https://open.spotify.com/playlist/7tAMTtDV9Guvt7xEL0sRUU?si=786b8421a5604d11)
-- 🌱 I’m currently learning React and TypeScript
+- 🧑‍🏫 I’m currently learning React and TypeScript
 
 
 <!--
