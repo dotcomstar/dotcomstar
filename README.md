@@ -1,5 +1,5 @@
-### 🛩️ Jet's Corner 🛩️
-#### New grad software developer with a B.Sc. in Computer Engineering from the University of Maryland, College Park
+## 🛩️ Jet's Corner 🛩️
+#### B.Sc. in Computer Engineering from the University of Maryland, College Park
 
 ### 👨‍💻 Check out some of my projects:
 - 🧠 [`Triviale`](https://github.com/dotcomstar/Triviale) A daily trivia puzzle game! Play now at https://www.triviale.net/
