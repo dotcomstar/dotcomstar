@@ -8,7 +8,7 @@
 - 🤖 [`RockvilleRobotics/Incredibots2018`](https://github.com/rockvillerobotics/Incredibots2018) Fully autonomous robot I deployed to international competetion of 60+ teams, placing top 10 in the world
 
 ### 🤿 For fun...
-- 🎵 Listen to my latest [seasonal playlist](https://open.spotify.com/playlist/7tAMTtDV9Guvt7xEL0sRUU?si=786b8421a5604d11)
+- 🎵 Listen to my latest [seasonal playlist](https://open.spotify.com/playlist/7Dkx62U9VcCz0S7vDsbZby?si=d1782408b38b4756)
 - 🧑‍🏫 I’m currently learning more about React and TypeScript
 
 
