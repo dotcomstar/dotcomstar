@@ -3,8 +3,8 @@
 
 ### 👨‍💻 Check out some of my projects:
 - 🧠 [`Triviale`](https://github.com/dotcomstar/Triviale) Answer Trivia with this fun word game https://www.triviale.net/
-- 📆 [`ScheduleTerps`](https://github.com/dotcomstar/ScheduleTerps) [Alpha version] Find the best courses for your UMD schedule https://scheduleterp.vercel.app/
-- 🎮 [`GameHub`](https://github.com/dotcomstar/game-hub) Game-browsing website deployed to https://game-hub-dotcomstar.vercel.app/
+- 📆 [`ScheduleTerps`](https://github.com/dotcomstar/ScheduleTerps) Find the best courses for your UMD schedule https://scheduleterp.vercel.app/
+- 🎮 [`GameHub`](https://github.com/dotcomstar/game-hub) Browse video games https://game-hub-dotcomstar.vercel.app/
 - 🤖 [`RockvilleRobotics/Incredibots2018`](https://github.com/rockvillerobotics/Incredibots2018) Fully autonomous robot I deployed to international competetion of 60+ teams, placing top 10 in the world
 
 ### 🤿 For fun...
