@@ -1,16 +1,16 @@
 ## 🛩️ Jet's Corner 🛩️
 #### B.Sc. in Computer Engineering from the University of Maryland, College Park
 
-### 👨‍💻 Check out some of my projects:
+### Check out some of my projects:
 - 🧠 [`Triviale`](https://github.com/dotcomstar/Triviale) Answer Trivia with this fun word game https://www.triviale.net/
 - 📆 [`ScheduleTerps`](https://github.com/dotcomstar/ScheduleTerps) Find the best courses for your UMD schedule https://scheduleterp.vercel.app/
-- 🎮 [`GameHub`](https://github.com/dotcomstar/game-hub) Browse video games https://game-hub-dotcomstar.vercel.app/
-- 🤖 [`RockvilleRobotics/Incredibots2018`](https://github.com/rockvillerobotics/Incredibots2018) Fully autonomous robot I deployed to international competetion of 60+ teams, placing top 10 in the world
+- [`GameHub`](https://github.com/dotcomstar/game-hub) Browse video games https://game-hub-dotcomstar.vercel.app/
+- [`RockvilleRobotics/Incredibots2018`](https://github.com/rockvillerobotics/Incredibots2018) Fully autonomous robot I deployed to international competetion of 60+ teams, placing top 10 in the world
 
-### 🤿 For fun...
+### For fun...
 - 🤺 I recently placed 2nd at [Capitol Division Tune-Up Open](https://www.askfred.net/tournaments/ff11e0ab-8948-4141-a435-8d4c71d60eeb/results)
-- 🎵 Listen to my latest [seasonal playlist](https://open.spotify.com/playlist/7iZbY33vPjL1KaOPqzytKn)
-- 🧑‍🏫 I’m currently learning more about React and TypeScript
+- 🎵 Listen to my latest [seasonal playlist](https://music.apple.com/us/playlist/jets-2026/pl.u-AkAmPl3clP04bN)
+- I’m currently learning more about React and TypeScript
 
 <!--
 **dotcomstar/dotcomstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
